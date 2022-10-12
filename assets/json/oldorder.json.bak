@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "date": "09-10-2022",
+      "name": "Ibuprofen",
+      "General Use": "Fever",
+	  "Price":"55.70"
+    },
+     {
+      "date": "12-10-2022",
+      "name": "Ibuprofen",
+      "General Use": "Fever",
+	  "Price":"55.70"
+    },
+     {
+      "date": "15-10-2022",
+      "name": "Ibuprofen",
+      "General Use": "Fever",
+	  "Price":"55.70"
+    }
+  ]
+}

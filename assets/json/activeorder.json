@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "date": "09-10-22",
+      "name": "Ibuprofen",
+      "brandname": "Abbott",
+	    "price":"55.20"
+    },
+     {
+      "date": "12-10-22",
+      "name": "Lisinopril",
+      "brandname": "Norvasc",
+	    "price":"155.40"
+    },
+     {
+      "date": "15-10-22",
+      "name": "Levothyroxine",
+      "brandname": " Adderall",
+	    "price":"285.70"
+    }
+  ]
+}
